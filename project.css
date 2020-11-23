@@ -449,9 +449,9 @@ margin-top: 75px;
 
 .bottom-img{
 	position: absolute;
-	width: 100%;
+	left: 0;
 	bottom: 0;
-		z-index: -1;
+	z-index: -1;
 }
 
 .bottom-img img{
