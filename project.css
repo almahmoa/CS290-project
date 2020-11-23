@@ -1,4 +1,4 @@
-﻿.header {
+.header {
 	  left: 0;
 	  position: absolute;
 	  width: 90%;
@@ -19,7 +19,7 @@
 }
 
 .subpages {
-	display: inline-flex;
+	display: inline;
 	position: absolute;
 	width: 100%;
 	height:auto;
@@ -28,8 +28,8 @@
 }
 
 .subpages img {
-	width: 100%;
-    height: 40px;
+	width: 85px;
+    	height: 40px;
 }
 
 .subpages img:hover{
